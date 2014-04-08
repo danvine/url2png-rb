@@ -29,7 +29,7 @@ options = {
 puts Url2png::Screenshot.new(options).url
 # http://api.url2png.com/v6/P4DF2F8BC83648/762372dcc3da57ecb6c629af10a67783/png/?fullpage=true&thumbnail_max_width=200&url=teslamotors.com&viewport=1024x1024
 ```
-![Example](http://api.url2png.com/v6/P4DF2F8BC83648/697578fbf5e2881ac23edbef55499f7f/png/?url=google.com)
+![Example](http://api.url2png.com/v6/P4DF2F8BC83648/762372dcc3da57ecb6c629af10a67783/png/?fullpage=true&thumbnail_max_width=200&url=teslamotors.com&viewport=1024x1024)
 
 
 Advanced Screenshot Example
@@ -58,7 +58,7 @@ options = {
 puts Url2png::Screenshot.new(options).url
 # http://api.url2png.com/v6/P4DF2F8BC83648/7923f7b4d48d8eba935d5bee5018e5de/png/?accept_languages=de&custom_css_url=http%3A%2F%2Furl2png.com%2Fprotips%2Fcustom-css%2Fpretty.css&fullpage=true&thumbnail_max_width=200&unique=1940190&url=teslamotors.com&viewport=1024x1024
 ```
-![Example](http://api.url2png.com/v6/P4DF2F8BC83648/f08dbc45d619cd8e7e373f0ea72f316d/png/?accept_languages=de&custom_css_url=http%3A%2F%2Furl2png.com%2Ftests%2Fcss%2Ftest.css&fullpage=true&unique=1940188&url=google.com&user_agent=Any+user+agent+you+want&viewport=1024x1024)
+![Example](http://api.url2png.com/v6/P4DF2F8BC83648/7923f7b4d48d8eba935d5bee5018e5de/png/?accept_languages=de&custom_css_url=http%3A%2F%2Furl2png.com%2Fprotips%2Fcustom-css%2Fpretty.css&fullpage=true&thumbnail_max_width=200&unique=1940190&url=teslamotors.com&viewport=1024x1024)
 
 Even more features
 ------------------
