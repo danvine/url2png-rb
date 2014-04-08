@@ -1,6 +1,6 @@
 URL2PNG
 =======
-[![Build Status](https://travis-ci.org/danvine/url2png-rb.svg?branch=master)](https://travis-ci.org/danvine/url2png-rb.svg)
+[![Build Status](https://travis-ci.org/danvine/url2png-rb.svg?branch=master)](https://travis-ci.org/danvine/url2png-rb)
 
 Take screenshots of any webpage instantly using url2png.com
 
